@@ -12,9 +12,9 @@ export const metadata: Metadata = {
   description: 'Dedicado ao aprimoramento da comunicação humana. Grupos sistêmicos, processos terapêuticos, Método FLUIR e Método TEIAR.',
   generator: 'v0.app',
   icons: {
-    icon: "/icon.jpg",
-    shortcut: "/icon.jpg",
-    apple: "/icon.jpg",
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   },
 }
 
