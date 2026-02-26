@@ -57,7 +57,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">E-mail</p>
-                  <p className="font-semibold text-foreground">contatopalavrabemdita1@gmail.com</p>
+                  <p className="font-semibold text-foreground">palavrabemditainstituto@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">

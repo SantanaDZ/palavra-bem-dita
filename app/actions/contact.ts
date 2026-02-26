@@ -33,7 +33,7 @@ export async function sendEmail(prevState: any, formData: FormData) {
     try {
         const { data, error } = await resend.emails.send({
             from: "Instituto Palavra Bem Dita <onboarding@resend.dev>",
-            to: ["contatopalavrabemdita1@gmail.com"], // E-mail destinatário final
+            to: ["palavrabemditainstituto@gmail.com"], // E-mail destinatário final
             subject: `Novo Contato: ${subject}`,
             replyTo: email,
             html: `
